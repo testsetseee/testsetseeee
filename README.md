@@ -19,7 +19,7 @@ Also I have a lot of experience in all sorts of languages and technologies:
       - Chakra-UI ( Primary )
       - MUI
   - Dev (Backend)
-    - Node.js?.TypeScript
+    - Node.js
       - Express
       - NestJS
 
