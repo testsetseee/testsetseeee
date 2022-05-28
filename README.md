@@ -5,7 +5,7 @@ I'm Nikita and I'm very excited to meet you in my profile.
 
 I live in 🇧🇾 and love to develop all sorts of things: API's, frontend, backend, low-end, programming languages and many more! 
 
-I'm the founder of the [Hyperon team](https://github.com/hyperon-team). We currently work on an AI-powered advertisement platform named Hyperia and Discord protection bot named HyperonGuard.
+I am currently working on a web application similar to `FACEIT`
 
 Also I have a lot of experience in all sorts of languages and technologies:
 - Lang JavaScript, TypeScript
