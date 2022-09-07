@@ -1,9 +1,8 @@
-### Hello there!
+### xd
 
-If you wanna get in contact with me, here is some contact information:
 - VK: [click!](https://vk.com/jassix)
-- Discord: `jassix#7107`
+- Discord: `jassix#0001`
+- Telegram: @kingjassix
 
-Thanks for your attention.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jassix&show_icons=true&theme=onedark)
